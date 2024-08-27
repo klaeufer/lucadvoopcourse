@@ -59,7 +59,7 @@ Please refer to the academic standards and regulations applicable to your progra
 
 ### Grading scheme
 
-- A 92 points
+- A 92 points and up
 - A- 88
 - B+ 84
 - B 80
