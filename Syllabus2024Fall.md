@@ -93,6 +93,14 @@ Please refer to the academic standards and regulations applicable to your progra
 - To earn points for group activities or other in-class activities, you are required to participate during class time (in person or remotely) or make up for the work outside of class.
 - The university's statement about the observation of religious holidays is available [here](https://www.luc.edu/academicaffairs/homenews/honoringstudentreligiousobservances.shtml).
 
+## Recording of class meetings
+
+In this class, software will be used to record live class discussions. As a student in this class, your participation in live class discussions will be recorded. These recordings will be made available only to students enrolled in the class, to assist those who cannot attend the live session or to serve as a resource for those who would like to review content that was presented. All recordings will become unavailable to students in the class when the course has concluded. The use of all video recordings will be in keeping with the University Privacy Statement shown below.
+
+## Privacy Statement
+
+Assuring privacy among faculty and students engaged in online and face-to-face instructional activities helps promote open and robust conversations and mitigates concerns that comments made within the context of the class will be shared beyond the classroom. As such, recordings of instructional activities occurring in online or face-to-face classes may be used solely for internal class purposes by the faculty member and students registered for the course, and only during the period in which the course is offered. Students will be informed of such recordings by a statement in the syllabus for the course in which they will be recorded. Instructors who wish to make subsequent use of recordings that include student activity may do so only with informed written consent of the students involved or if all student activity is removed from the recording. Recordings including student activity that have been initiated by the instructor may be retained by the instructor only for individual use.
+
 ## Information about Accessibility Support
 
 Loyola University Chicago provides reasonable academic and student life accommodations for students with disabilities. Students interested in receiving academic accommodations related to a disability or other health condition are invited to register with the Student Accessibility Center (SAC) at https://luc.edu/sac/applywithsac. Students may register with the SAC at any point in their academic career, however the SAC encourages students to register as early as possible to reduce delay in delivery of accommodations. The SAC, student, and professor will engage in an interactive process to determine how each student’s accommodations are applied to individual class sections. 
