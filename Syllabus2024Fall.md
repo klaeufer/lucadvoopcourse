@@ -24,7 +24,14 @@
 
 - *Outcomes:* Proficiency in the use of object-oriented languages, frameworks, and patterns; advanced understanding of key language mechanisms such as delegation, inheritance, polymorphism, and reflection; familiarity with object-oriented modeling and development tools and test-driven development  
 - *Learning activities*: Lecture, readings and discussion, research presentation, small group projects
-- *Timeline:* TBD
+- *Tentative timeline:*
+  - overview and motivation (1 week)
+  - business and software engineering contexts (1 week)
+  - design patterns: creational, structural, behavioral (3 weeks)
+  - design principles (2 weeks)
+  - dependency management (2 weeks)
+  - advanced topics (4 weeks)
+  - project presentations (2 weeks)
 
 ## Information about Academic Integrity
 
@@ -73,7 +80,7 @@ Please refer to the academic standards and regulations applicable to your progra
 
 ### Policy on late or missing work/exams
 
-- We will make an effort to work around scheduled absences and emergencies. Details TBD.
+- We will make an effort to work around scheduled absences and emergencies. Please notify the instructor through MS Teams as soon as reasonably possible.
 
 ### Policy on missed classes and/or tardiness, including penalties
 
