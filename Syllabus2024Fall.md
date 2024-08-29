@@ -45,8 +45,10 @@ Please refer to the academic standards and regulations applicable to your progra
 - Course text: [Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 - Additional texts available free on O'Reilly Safari:
   - https://learning.oreilly.com/library/view/software-architecture-in/9780136885979
-  - https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447
+  - https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447 / https://learning.oreilly.com/library/view/fundamentals-of-software/9781098175504/
   - https://learning.oreilly.com/library/view/software-architecture-patterns/9781098134280/
+  - https://learning.oreilly.com/library/view/software-architecture-for/9780128093382/
+  - https://learning.oreilly.com/library/view/cloud-application-architecture/9781098116897/
 
 ## Evaluation and Grading (tentative)
 
