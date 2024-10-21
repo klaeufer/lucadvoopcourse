@@ -22,7 +22,10 @@
 
 ## Learning
 
-- *Outcomes:* Proficiency in the use of object-oriented languages, frameworks, and patterns; advanced understanding of key language mechanisms such as delegation, inheritance, polymorphism, and reflection; familiarity with object-oriented modeling and development tools and test-driven development  
+- *Outcomes (all students):* Proficiency in the use of object-oriented languages, frameworks, and patterns; advanced understanding of key language mechanisms such as delegation, inheritance, polymorphism, and reflection; familiarity with object-oriented modeling and development tools and test-driven development
+- *Additional outcomes (graduate students):*
+  - Advanced software architecture skills by critically analyzing, discussing, and applying design patterns and architectural principles in complex, real-world scenarios, based on a deeper understanding of design trade-offs.
+  - Ability to lead software development teams through the full project lifecycle, effectively guiding the design process, managing collaborative efforts, and ensuring the architectural integrity of the final solution.
 - *Learning activities*: Lecture, readings and discussion, research presentation, small group projects
 - *Tentative timeline:*
   - overview and motivation (1 week)
