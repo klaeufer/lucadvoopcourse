@@ -52,21 +52,33 @@ Please refer to the academic standards and regulations applicable to your progra
 
 ## Evaluation and Grading (tentative)
 
-### Grading Components
+### Grading Components (all students)
 
-- Class participation (5%)
+- Class participation (5 points)
   - In class
   - On MS Teams
-- Research paper review (25%)
-  - 5 papers, 5% each
-- Main team project (55%)
-  - Team formed by deadline: 5%
-  - One-page project proposal: 15%
-  - Project presentation: 15%
-  - Final report: 20%
-- Quizzes (15%)
+- Research paper review (25 points)
+  - 5 papers, 5 points each
+- Main team project (55 points)
+  - Team formed by deadline: 5 points
+  - One-page project proposal: 15 points
+  - Project presentation: 15 points
+  - Final report: 20 points
+- Quizzes (15 points)
 
-### Grading scheme
+### Additional Grading Components (graduate students)
+
+- Leading research paper review sessions (5 points)
+  - Focus on deeper analyses of assigned readings, presenting alternative design patterns, or exploring related topics not covered in detail during lectures.
+  - Assessment: preparation, facilitation skills, and ability to engage peers.
+- Acting as Team Leads on Group Projects (5 points)
+  - Responsible for coordinating the team’s work, ensuring adherence to design principles, and managing version control and task assignments.
+  - Assessment: based on leadership, organization, communication, and team feedback.
+- Analysis of Architectural Evolution or Research Progress during Project (10 points)
+  - Report (2-3 pages) detailing design decisions and trade-offs made during the project; evaluate of architectural and design pattern usage, considering scalability, maintainability, and potential extensions.
+  - Assessment: based on technical soundness and readability.
+
+### Grading scheme (undergraduates)
 
 - A 92 points and up
 - A- 88
@@ -79,6 +91,20 @@ Please refer to the academic standards and regulations applicable to your progra
 - D+ 55
 - D 50
 - F < 50
+
+### Grading scheme (graduate students)
+
+- A 112 points and up
+- A- 108
+- B+ 104
+- B 100
+- B- 95
+- C+ 90
+- C 85
+- C- 80
+- D+ 75
+- D 70
+- F < 70
 
 ### Policy on late or missing work/exams
 
