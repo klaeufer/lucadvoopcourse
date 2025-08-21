@@ -9,4 +9,5 @@
 
 ## Course Sections
 
+- [Fall 2025](Syllabus2025Fall.md)
 - [Fall 2024](Syllabus2024Fall.md)
