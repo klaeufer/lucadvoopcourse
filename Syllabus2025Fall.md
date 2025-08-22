@@ -66,7 +66,7 @@ Please refer to the academic standards and regulations applicable to your progra
   - One-page project proposal: 15 points
   - Project presentation: 15 points
   - Final report: 20 points
-- Quizzes (21 points)
+- Quizzes (21 points, 7 each)
 
 ### Additional Grading Components (graduate students)
 
