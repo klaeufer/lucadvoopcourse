@@ -58,14 +58,15 @@ Please refer to the academic standards and regulations applicable to your progra
 - Class participation (5 points)
   - In class
   - On MS Teams
-- Research paper review (25 points)
-  - 5 papers, 5 points each
+- Research paper review (10 points)
+  - 2 papers, 5 points each
+- Ramp-up project (9 points)
 - Main team project (55 points)
   - Team formed by deadline: 5 points
   - One-page project proposal: 15 points
   - Project presentation: 15 points
   - Final report: 20 points
-- Quizzes (15 points)
+- Quizzes (21 points)
 
 ### Additional Grading Components (graduate students)
 
