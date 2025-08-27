@@ -16,7 +16,7 @@
 - Instructor: [Konstantin Läufer](https://laufer.cs.luc.edu) | [GitHub](http://github.com/klaeufer) | [Google Scholar](https://scholar.google.com/citations?user=Rs0f_nMAAAAJ&hl=en) | [Rate My Prof](https://www.ratemyprofessors.com/professor/287274)
 - Communication: *All communication regarding this class takes place in the classroom (verbal) and MS Teams (written). Most will be in the team-level channel specific to this term. For individual or group-level concerns, you may use direct individual or group messages in MS Teams; my user ID is **klaufer@luc.edu**. (To help me prioritize your class-related communication, please DO NOT use email!)*
 - Office hours
-  - Mon/Wed/Fri 14:45-15:45 in Doyle Hall 203 or online (by appointment via [Calendly](https://calendly.com/laufer))
+  - Mon/Wed/Fri 14:40-15:40 in Doyle Hall 203 or online (by appointment via [Calendly](https://calendly.com/laufer))
 
 ## Learning
 
