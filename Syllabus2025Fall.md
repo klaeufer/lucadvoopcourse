@@ -67,6 +67,9 @@ Please refer to the academic standards and regulations applicable to your progra
   - Project presentation: 15 points
   - Final report: 20 points
 - Quizzes (21 points, 7 each)
+  - Sep 24
+  - Oct 29
+  - Dec 3
 
 ### Additional Grading Components (graduate students)
 
