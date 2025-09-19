@@ -60,7 +60,7 @@ Please refer to the academic standards and regulations applicable to your progra
   - On MS Teams
 - Research paper review (10 points)
   - 2 papers, 5 points each
-- Ramp-up project (9 points)
+- Ramp-up project (9 points) - Project 1 in Sakai
 - Main team project (55 points)
   - Team formed by deadline: 5 points
   - One-page project proposal: 15 points
