@@ -62,10 +62,10 @@ Please refer to the academic standards and regulations applicable to your progra
   - 2 papers, 5 points each
 - Ramp-up project (9 points) - Project 1 in Sakai
 - Main team project (55 points)
-  - Team formed by deadline: 5 points
-  - One-page project proposal: 15 points
-  - Project presentation: 15 points
-  - Final report: 20 points
+  - Team formed by deadline: 5 points - TODO instructor
+  - One-page project proposal: 15 points - Project 2a
+  - Project presentation: 15 points - Project 2b
+  - Final report and other deliverables: 20 points - Project 2c
 - Quizzes (21 points, 7 each)
   - Sep 24
   - Oct 29
